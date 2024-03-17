@@ -23,6 +23,8 @@ try:
                 print ("left")
             elif char == 10:
                 print ("stop")    
+
+# test                
              
 finally:
     #Close down curses properly, inc turn echo back on!
